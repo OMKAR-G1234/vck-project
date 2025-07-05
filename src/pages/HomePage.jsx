@@ -28,7 +28,7 @@ const HomePage = () => {
        <p>Explore our vibrant campus and state-of-the-art facilities designed to enhance your learning experience and personal growth.</p>
            <div class="call-to-action">
               <p>Ready to explore our courses?</p>
-              <Link to="/courses" class="button">
+              <Link to="/courses" class="btn">
           Explore Courses
         </Link>{" "}
             </div>
